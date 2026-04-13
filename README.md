@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/charles-janjgava">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=apple&logoColor=white" />
@@ -43,7 +43,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**FitTrack**](https://github.com/ch4r1esJ/fittrack) | Fitness tracker with workout templates, HealthKit integration & Live Activities | SwiftUI · HealthKit · Clean Architecture · Firebase |
-| [**Techxplore Budgeting**](https://github.com/ch4r1esJ/techxplore-budgeting) | AI-powered travel budget planner with Gemini integration | SwiftUI · Gemini API · REST API · Swift Charts |
+| [**Techxplore Budgeting**](https://github.com/ch4r1esJ/techxplore-budgeting) | AI-powered travel budget planner with Gemini integration · 🏆 2nd place @ TBC Bank Techxplore Hackathon | SwiftUI · Gemini API · REST API · Swift Charts |
 
 ---
 
