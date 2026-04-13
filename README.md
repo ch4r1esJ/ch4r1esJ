@@ -50,6 +50,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4r1esJ&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ch4r1esJ&theme=tokyonight&hide_border=true" />
 </p>
 
