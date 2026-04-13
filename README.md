@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/charles-janjgava">
+  <a href="https://www.linkedin.com/in/charles-janjgava">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=apple&logoColor=white" />
@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  💬 Got an iOS project or opportunity? <a href="www.linkedin.com/in/charles-janjgava">Let's connect on LinkedIn</a>
+  💬 Got an iOS project or opportunity? <a href="https://www.linkedin.com/in/charles-janjgava">Let's connect on LinkedIn</a>
 </p>
 
 <!--
