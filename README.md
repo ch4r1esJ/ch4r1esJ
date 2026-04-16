@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Charles 👋</h1>
 <p align="center">
-  <b>iOS Developer</b> · Swift · SwiftUI · UIKit · Flutter (learning)
+  <b>iOS Developer</b> · Swift · SwiftUI · UIKit · Flutter
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/charles-janjgava">
