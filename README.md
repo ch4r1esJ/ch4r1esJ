@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Charles 👋</h1>
-
 <p align="center">
-  <b>iOS Developer</b> · Swift · SwiftUI · UIKit · C#/.NET
+  <b>iOS Developer</b> · Swift · SwiftUI · UIKit · Flutter (learning)
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/charles-janjgava">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,9 +12,8 @@
 ---
 
 ### 📱 About Me
-
 - 🔭 Building iOS apps with Clean Architecture, SwiftUI, UIKit and AI integrations
-- 💼 **Open to iOS Developer opportunities** — full-time or remote
+- 💼 **Open to iOS & mobile development opportunities** — full-time or remote
 - 🤝 Open to collaborating on interesting iOS / Swift projects
 - 🎓 Master's in IT · B.Sc. Electrical & Electronics Engineering
 - 📍 Based in Tbilisi, Georgia
@@ -24,11 +21,12 @@
 ---
 
 ### 🛠 Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -38,7 +36,6 @@
 ---
 
 ### 🚀 Featured Projects
-
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**FitTrack**](https://github.com/ch4r1esJ/fittrack) | Fitness tracker with workout templates, HealthKit integration & Live Activities | SwiftUI · HealthKit · Clean Architecture · Firebase |
@@ -47,7 +44,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ch4r1esJ&theme=tokyonight&hide_border=true" />
 </p>
@@ -55,7 +51,7 @@
 ---
 
 <p align="center">
-  💬 Got an iOS project or opportunity? <a href="https://www.linkedin.com/in/charles-janjgava">Let's connect on LinkedIn</a>
+  💬 Got an iOS or mobile project or opportunity? <a href="https://www.linkedin.com/in/charles-janjgava">Let's connect on LinkedIn</a>
 </p>
 
 <!--
