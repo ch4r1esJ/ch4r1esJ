@@ -38,6 +38,7 @@
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**MoviesApp**](https://github.com/ch4r1esJ/MoviesApp) | Movie browsing & favorites app backed by TMDB | MVI · Combine · Clean Architecture · Swinject DI · SwiftUI · |
 | [**FitTrack**](https://github.com/ch4r1esJ/fittrack) | Fitness tracker with workout templates, HealthKit integration & Live Activities | SwiftUI · HealthKit · Clean Architecture · Firebase |
 | [**Techxplore Budgeting**](https://github.com/ch4r1esJ/techxplore-budgeting) | AI-powered travel budget planner with Gemini integration · 🏆 2nd place @ TBC Bank Techxplore Hackathon | SwiftUI · Gemini API · REST API · Swift Charts |
 
